@@ -5,7 +5,7 @@ By Robert. A Gonsalves</br>
 
 ![image](https://raw.githubusercontent.com/robgon-art/BIG.art/main/BIG.art_med.jpg)
 
-You can see my article [Medium](https://towardsdatascience.com/big-art-using-machine-learning-to-create-high-res-fine-art-7dd695f99788).
+You can see my article on [Medium](https://towardsdatascience.com/big-art-using-machine-learning-to-create-high-res-fine-art-7dd695f99788).
 
 The source code and generated images are released under the [CC BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/).</br>
 ![CC BYC-SA](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
