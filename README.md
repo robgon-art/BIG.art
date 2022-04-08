@@ -29,6 +29,6 @@ To cite this repository:
   title   = {BIG.art: Using Machine Learning to Create High-Res Fine Art},
   url     = {https://github.com/robgon-art/BIG.art},
   year    = 2022,
-  month   = February
+  month   = April
 }
 ```
