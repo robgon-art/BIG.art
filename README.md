@@ -1,5 +1,5 @@
 # **BIG.art: Using Machine Learning to Create High-Res Fine Art**
-## How to use GLIDE and BSRGAN to create ultra-high-resolution paintings with fine details
+## How to use GLIDE and BSRGAN to create ultra-high-resolution paintings with fine details 
 
 By Robert. A Gonsalves</br>
 
